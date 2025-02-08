@@ -1,0 +1,25 @@
+# Derleme dosyaları
+bin/
+obj/
+
+# Kullanıcıya özel dosyalar
+*.user
+*.suo
+*.vscode
+
+# Çalışma dosyaları
+logs/
+*.log
+*.bak
+
+# Ortam değişkenleri
+.env
+secrets.json
+
+# Bağımlılıklar
+node_modules/
+packages/
+
+# Visual Studio çöp dosyaları
+.vs/
+.idea/
