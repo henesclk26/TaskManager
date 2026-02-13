@@ -1,4 +1,4 @@
-_Task Manager API_
+_Task Manager_
 
 Bu proje, ASP.Net Core Web API ve MongoDB kullanılarak geliştirilmiş bir **Görev Yönetim** sistemidir. 
 Kullanıcılar görevlerini oluşturabilir, güncelleyebilir ve silebilir.
